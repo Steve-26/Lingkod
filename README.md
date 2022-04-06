@@ -18,7 +18,7 @@ The goal of assessment is to collect useful information on student performance o
 
 
 ## METHODS
-The data that were obtained from the final examination of student in united states college. This study was conducted for all 200 students who have registered to the course. The purpose of the study is to examine students practical exam scores. As one of the outcomes from this study is a predictive model, 
+The data that were obtained from the final examination of student in united states college. This study was conducted for all 1001 students who have registered to the course. The purpose of the study is to examine students practical exam scores. As one of the outcomes from this study is a predictive model, 
 the research design utilized linear regression analysis. This design type also allows for 
 hypothesis testing. The methodology selection was driven by the research question. Methods will vary depending on the learning outcomes to be measured.  Direct methods are when students demonstrate that they have achieved a learning outcome or objective.  Indirect methods are when students or others report perceptions of how well students have achieved an objective or outcome. elect standardized tests that are aligned to your specific program learning outcomes. Score, compile, and analyze data. Develop local norms to track achievement across time and use national norms to see how your students compare to those on other campuses.
 
