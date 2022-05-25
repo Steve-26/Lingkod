@@ -15,3 +15,9 @@ The information that were acquired from the last assessment of understudy in US 
 Since one of the study's results is a prediction model, the research design included linear regression analysis. Hypothesis testing is also possible with this design type. The research question guided the technique choices. The methods used will differ based on the learning outcomes to be assessed. Students use direct techniques to demonstrate that they have attained a learning goal or target. Indirect approaches are used when students or others share their perceptions of how successfully students have accomplished a goal or outcome. Select standardized assessments that are connected with the learning outcomes of your specific program. Data should be scored, compiled, and analyzed. Create local norms to track achievement over time, and use national norms to compare your students to those on other campuses.
 ## EXPECTED OUPUT
 Researchers will examine the class's performance in each topic, the effect of parent education level on student performance, and the relationship involving Gender and Student performance.
+
+## Sustainable Development Goals (SDGs) of the Project:
+
+These SDGs are further described as follows;
+
+  Goal 4 - this goal aiming to ensure that all students receive a high-quality education that is inclusive and equitable, and encourage lifelong learning opportunities. 
