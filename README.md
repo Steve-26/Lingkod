@@ -22,4 +22,4 @@ These SDGs are further described as follows;
 
   Goal 4 - this goal aiming to ensure that all students receive a high-quality education that is inclusive and equitable, and encourage lifelong learning opportunities. 
 
-[![Watch the video](https://youtu.be/Fy4MBB-n_48)
+[![Watch the video(https://i9.ytimg.com/vi_webp/Fy4MBB-n_48/mqdefault.webp?v=629ae09f&sqp=CMi_65QG&rs=AOn4CLBwYihN-qz5l_mu93-3Iis_UKa8wQ)](https://youtu.be/Fy4MBB-n_48)
