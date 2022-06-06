@@ -27,3 +27,4 @@ These SDGs are further described as follows;
 
 ### Final reporting
 <a href="https://youtu.be/Fy4MBB-n_48" target="_blank">Final Reporting Video</a>
+<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=SB06wSCc&id=BB5ADF71BB7F1CCC9BF8C9DAF0E7A299C16F0E74&thid=OIP.SB06wSCcfP-RZlJesHZWywAAAA&mediaurl=https%3a%2f%2fgemreportunesco.files.wordpress.com%2f2016%2f10%2fsdg4.jpg%3fw%3d300&exph=300&expw=300&q=sdg+4&simid=608011200162234980&FORM=IRPRST&ck=706F11C4E47313877C97E6964C15962B&selectedIndex=13&ajaxhist=0&ajaxserp=0">
