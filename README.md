@@ -24,7 +24,7 @@ These SDGs are further described as follows;
 
   Goal 4 - this goal aiming to ensure that all students receive a high-quality education that is inclusive and equitable, and encourage lifelong learning opportunities. 
  
-<img align="left" alt="Coding" width="400" src="https://cse.wu.ac.th/wp-content/uploads/2021/09/4_SDG.gif">
+<img align="center" alt="Coding" width="400" src="https://cse.wu.ac.th/wp-content/uploads/2021/09/4_SDG.gif">
 
 
 ## References
