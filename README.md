@@ -27,9 +27,7 @@ These SDGs are further described as follows;
 <img align="left" alt="Coding" width="400" src="https://cse.wu.ac.th/wp-content/uploads/2021/09/4_SDG.gif">
 
 ## References
-<a href="https://www.google.com/" target="_blank">Google</a>
 
-
-<a href="https://www.sciencedirect.com/science/article/pii/S1877042811005969" target="_blank">A study of factors affecting students’ performance in examination at university level</a>
+* <a href="https://www.sciencedirect.com/science/article/pii/S1877042811005969" target="_blank">A study of factors affecting students’ performance in examination at university level</a>
 ### Final reporting
 <a href="https://youtu.be/Fy4MBB-n_48" target="_blank">Final Reporting Video</a>
