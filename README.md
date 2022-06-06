@@ -21,6 +21,9 @@ Researchers will examine the class's performance in each topic, the effect of pa
 These SDGs are further described as follows;
 
   Goal 4 - this goal aiming to ensure that all students receive a high-quality education that is inclusive and equitable, and encourage lifelong learning opportunities. 
+  
+## References
+[nics](www.google.com)
 
 ### Final reporting
 https://youtu.be/Fy4MBB-n_48
