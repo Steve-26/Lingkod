@@ -1,3 +1,5 @@
+<img align="CENTER" alt="Coding" width="1000" src="img/github.JPG">
+
 # Lingkod: "The Analysis of Exam Performance by Students"
 
 ## INTRODUCTION
