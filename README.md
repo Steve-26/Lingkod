@@ -24,6 +24,7 @@ These SDGs are further described as follows;
   
 ## References
 [nics](www.google.com)
+<a href="https://www.google.com/" target="_blank">Google</a>
 
 ### Final reporting
 https://youtu.be/Fy4MBB-n_48
