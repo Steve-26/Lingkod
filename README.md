@@ -27,4 +27,3 @@ These SDGs are further described as follows;
 
 ### Final reporting
 <a href="https://youtu.be/Fy4MBB-n_48" target="_blank">Final Reporting Video</a>
-https://youtu.be/Fy4MBB-n_48
