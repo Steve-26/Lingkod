@@ -29,5 +29,6 @@ These SDGs are further described as follows;
 ## References
 
 * <a href="https://www.sciencedirect.com/science/article/pii/S1877042811005969" target="_blank">A study of factors affecting students’ performance in examination at university level</a>
+* <a href="[https://www.sciencedirect.com/science/article/pii/S1877042811005969](https://www.hindawi.com/journals/edri/2018/8719012/)" target="_blank">Assessment of Student Performance for Course Examination Using Rasch Measurement Model: A Case Study of Information Technology Fundamentals Course</a>
 ### Final reporting
 <a href="https://youtu.be/Fy4MBB-n_48" target="_blank">Final Reporting Video</a>
