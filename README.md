@@ -27,6 +27,7 @@ These SDGs are further described as follows;
 <img align="center" alt="Coding" width="400" src="https://cse.wu.ac.th/wp-content/uploads/2021/09/4_SDG.gif">
 
 
+
 ## References
 
 * <a href="https://www.sciencedirect.com/science/article/pii/S1877042811005969" target="_blank">A study of factors affecting students’ performance in examination at university level</a>
@@ -44,4 +45,18 @@ These SDGs are further described as follows;
 <a href="https://youtu.be/Fy4MBB-n_48" target="_blank">Final Reporting Video</a>
 
 ### Group Members
-<video src='story_1654579369301.mp4' width=180/>
+
+<img align="left" alt="Coding" width="600" src="img/story_1654579369301.gif">
+
+<a href="https://github.com/Steve-26" target="_blank">Navarro, Steven John</a>
+
+<a href="https://github.com/Unicahija" target="_blank">Bajeta, Nicole E.</a>
+
+<a href="https://github.com/AYasmin00" target="_blank">Adda, Yasmin M.</a>
+
+<a href="https://github.com/JNAPsgn" target="_blank">Pesigan, Jean Nessa A.</a>
+
+<a href="https://github.com/JaneMar-Rancap" target="_blank">Rancap, Jane Mar M.</a>
+
+
+
